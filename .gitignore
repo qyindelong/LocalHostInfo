@@ -1,0 +1,8 @@
+*.opensdf
+*.sdf
+*.suo
+*.htm
+*.dsp
+
+debug
+backup
