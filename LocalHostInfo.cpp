@@ -61,6 +61,7 @@ int main()
 	GetGlobalData();
 
 	//获取一个字符，用于命令行暂停 
+	//test
 	getchar();
 	return 0;
 }
